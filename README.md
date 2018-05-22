@@ -1,4 +1,4 @@
-# My Living room Instagram 📷
+# My living room Instagram 📷
 
 Automated account that posts a spontany photo everyday at 3PM, using [this](https://github.com/mr0re1/pynstagram) Python library to interact with Instagram.
 
