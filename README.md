@@ -10,6 +10,6 @@ Material:
 
 
 <p align="center">
- <img src="https://github.com/enric1994/instabot/blob/master/les_planes5.jpg" width="350">
+ <img src="les_planes5.jpg" width="350">
 </p>
 
