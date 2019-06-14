@@ -1,5 +1,3 @@
-# My living room Instagram 📷
-
 Automated Instagram account that posts a spontany photo everyday at 3PM. Feel free to follow us at @les_planes5
 
 Material:
